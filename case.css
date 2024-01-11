@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#board{
+    background-color: white;
+    border-bottom: 10px solid  #ffbf00;
+}
+h1{
+    color: #ffbf00;
+}
